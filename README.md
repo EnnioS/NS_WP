@@ -1,10 +1,9 @@
 # NS_WP
- Create Plugin, define WP JSON API, Create a custom block, Create Theme
 
 ## 1. Create a plugin that:
-* **Creates a "Products" custom post type** (done)
-* **Creates a "Brands" custom post type. (hierarchical)**(Done)
-* **Creates a "Product Category" custom taxonomy, and adds it to the custom post type**.(Done)
+* **Creates a "Products" custom post type**
+* **Creates a "Brands" custom post type. (hierarchical)**
+* **Creates a "Product Category" custom taxonomy, and adds it to the custom post type**.
 * **Using Advanced Custom Fields (or not) creates fields for:**
     - **Brand**
     - **Date of Expiry**
